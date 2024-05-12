@@ -20,6 +20,7 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet V-DdoS")
+print(logo)
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
